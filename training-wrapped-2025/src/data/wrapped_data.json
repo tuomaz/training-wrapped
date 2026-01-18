@@ -1,0 +1,2579 @@
+{
+  "year": 2025,
+  "summary": {
+    "total_sessions": 273,
+    "total_km": 1746.9994871273093,
+    "total_km_run": 929.8878833453904,
+    "total_km_cycle": 817.1116037819188,
+    "total_gym": 57,
+    "total_cardio": 216,
+    "total_hours": 145.3138888888889
+  },
+  "highlights": {
+    "longest_run": 15.195916185280085,
+    "longest_ride": 35.58276731752186,
+    "top_exercises": [
+      "Benb\u00f6j",
+      "Hantelpress",
+      "Chins"
+    ],
+    "longest_streak": 9,
+    "best_run_week": {
+      "week": 22,
+      "distance": 34.282193523726114
+    },
+    "best_cycle_week": {
+      "week": 37,
+      "distance": 87.58241579018542
+    },
+    "best_gym_month": {
+      "month": 11,
+      "count": 9
+    },
+    "top_5_longest_runs": [
+      {
+        "date": "2025-08-24",
+        "type": "Running",
+        "distance_km": 15.195916185280085,
+        "duration_sec": 6032.0
+      },
+      {
+        "date": "2025-09-27",
+        "type": "Running",
+        "distance_km": 15.043473508701139,
+        "duration_sec": 5824.0
+      },
+      {
+        "date": "2025-07-17",
+        "type": "Running",
+        "distance_km": 14.838574860618294,
+        "duration_sec": 5231.0
+      },
+      {
+        "date": "2025-06-13",
+        "type": "Running",
+        "distance_km": 13.427244290793693,
+        "duration_sec": 4964.0
+      },
+      {
+        "date": "2025-07-05",
+        "type": "Running",
+        "distance_km": 13.146514292166337,
+        "duration_sec": 4777.0
+      }
+    ],
+    "top_5_fastest_runs": [
+      {
+        "date": "2025-09-09",
+        "type": "Running",
+        "distance_km": 5.502909681313128,
+        "duration_sec": 1675.0,
+        "speed_kmh": 11.82714916580732,
+        "pace": "5:04"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "Running",
+        "distance_km": 5.504732431977496,
+        "duration_sec": 1681.0,
+        "speed_kmh": 11.788838045876851,
+        "pace": "5:05"
+      },
+      {
+        "date": "2025-08-26",
+        "type": "Running",
+        "distance_km": 5.508398218276512,
+        "duration_sec": 1689.0,
+        "speed_kmh": 11.740813253875338,
+        "pace": "5:06"
+      },
+      {
+        "date": "2025-08-18",
+        "type": "Running",
+        "distance_km": 5.524329566106097,
+        "duration_sec": 1719.0,
+        "speed_kmh": 11.569276578232664,
+        "pace": "5:11"
+      },
+      {
+        "date": "2025-07-13",
+        "type": "Running",
+        "distance_km": 3.6159178592311374,
+        "duration_sec": 1136.0,
+        "speed_kmh": 11.458894624324026,
+        "pace": "5:14"
+      }
+    ],
+    "top_5_longest_rides": [
+      {
+        "date": "2025-09-14",
+        "type": "Cycling",
+        "distance_km": 35.58276731752186,
+        "duration_sec": 5545.0,
+        "speed_kmh": 27.9
+      },
+      {
+        "date": "2025-06-14",
+        "type": "Cycling",
+        "distance_km": 35.57959697500368,
+        "duration_sec": 4937.0,
+        "speed_kmh": 29.0
+      },
+      {
+        "date": "2025-06-28",
+        "type": "Cycling",
+        "distance_km": 35.48310110342328,
+        "duration_sec": 5334.0,
+        "speed_kmh": 26.7
+      },
+      {
+        "date": "2025-05-31",
+        "type": "Cycling",
+        "distance_km": 35.455460788316415,
+        "duration_sec": 5778.0,
+        "speed_kmh": 27.8
+      },
+      {
+        "date": "2025-07-08",
+        "type": "Cycling",
+        "distance_km": 35.42174363730652,
+        "duration_sec": 6124.0,
+        "speed_kmh": 28.8
+      }
+    ],
+    "top_5_fastest_rides": [
+      {
+        "date": "2025-08-11",
+        "type": "Cycling",
+        "distance_km": 18.73715652768847,
+        "duration_sec": 2343.0,
+        "speed_kmh": 31.1
+      },
+      {
+        "date": "2025-05-13",
+        "type": "Cycling",
+        "distance_km": 11.185111544334315,
+        "duration_sec": 1754.0,
+        "speed_kmh": 30.6
+      },
+      {
+        "date": "2025-05-13",
+        "type": "Cycling",
+        "distance_km": 11.208194039495245,
+        "duration_sec": 1671.0,
+        "speed_kmh": 30.6
+      },
+      {
+        "date": "2025-07-12",
+        "type": "Cycling",
+        "distance_km": 35.262808350907825,
+        "duration_sec": 4538.0,
+        "speed_kmh": 30.2
+      },
+      {
+        "date": "2025-08-23",
+        "type": "Cycling",
+        "distance_km": 35.30850811743483,
+        "duration_sec": 4922.0,
+        "speed_kmh": 30.1
+      }
+    ]
+  },
+  "charts": {
+    "monthly": [
+      {
+        "month": 1,
+        "run": 15,
+        "cycle": 0,
+        "gym": 7,
+        "walk": 0,
+        "total": 22
+      },
+      {
+        "month": 2,
+        "run": 14,
+        "cycle": 0,
+        "gym": 7,
+        "walk": 0,
+        "total": 21
+      },
+      {
+        "month": 3,
+        "run": 16,
+        "cycle": 0,
+        "gym": 6,
+        "walk": 0,
+        "total": 22
+      },
+      {
+        "month": 4,
+        "run": 15,
+        "cycle": 0,
+        "gym": 3,
+        "walk": 0,
+        "total": 18
+      },
+      {
+        "month": 5,
+        "run": 12,
+        "cycle": 10,
+        "gym": 6,
+        "walk": 0,
+        "total": 28
+      },
+      {
+        "month": 6,
+        "run": 10,
+        "cycle": 6,
+        "gym": 1,
+        "walk": 0,
+        "total": 17
+      },
+      {
+        "month": 7,
+        "run": 14,
+        "cycle": 8,
+        "gym": 1,
+        "walk": 0,
+        "total": 23
+      },
+      {
+        "month": 8,
+        "run": 14,
+        "cycle": 13,
+        "gym": 0,
+        "walk": 2,
+        "total": 29
+      },
+      {
+        "month": 9,
+        "run": 14,
+        "cycle": 7,
+        "gym": 6,
+        "walk": 1,
+        "total": 28
+      },
+      {
+        "month": 10,
+        "run": 15,
+        "cycle": 0,
+        "gym": 4,
+        "walk": 0,
+        "total": 19
+      },
+      {
+        "month": 11,
+        "run": 15,
+        "cycle": 0,
+        "gym": 9,
+        "walk": 0,
+        "total": 24
+      },
+      {
+        "month": 12,
+        "run": 15,
+        "cycle": 0,
+        "gym": 7,
+        "walk": 0,
+        "total": 22
+      }
+    ],
+    "day_of_week": [
+      {
+        "day": "Mon",
+        "count": 30
+      },
+      {
+        "day": "Tue",
+        "count": 42
+      },
+      {
+        "day": "Wed",
+        "count": 44
+      },
+      {
+        "day": "Thu",
+        "count": 34
+      },
+      {
+        "day": "Fri",
+        "count": 39
+      },
+      {
+        "day": "Sat",
+        "count": 45
+      },
+      {
+        "day": "Sun",
+        "count": 39
+      }
+    ]
+  },
+  "gym_log": [
+    {
+      "date": "2025-01-05",
+      "exercises": [
+        "Hantelpress sned 5x5 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Marklyft 3x10 60 kg",
+        "Bicepscurl 5+5 30 14 kg"
+      ]
+    },
+    {
+      "date": "2025-01-11",
+      "exercises": [
+        "Hantelpress sned 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Marklyft 3x10 60 kg",
+        "Ryggresning 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl 5+5x3 30 14 kg st\u00e5ng hantel"
+      ]
+    },
+    {
+      "date": "2025-01-15",
+      "exercises": [
+        "Hantelpress 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Marklyft 3x10 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning 3x15 10 kg",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 14 kg"
+      ]
+    },
+    {
+      "date": "2025-01-19",
+      "exercises": [
+        "Hantelpress 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x11 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15",
+        "Bicepscurl st\u00e5ng hantel 32,5 16 5+5x3"
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "exercises": [
+        "Hantelpress sned 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x11 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Bicepscurl st\u00e5ng hantel 32,5 16 kg 5+5x3"
+      ]
+    },
+    {
+      "date": "2025-01-25",
+      "exercises": [
+        "Hantelpress sned 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning 3x15",
+        "Bicepscurl st\u00e5ng hantel 32,5 16 kg 5+5x3"
+      ]
+    },
+    {
+      "date": "2025-01-29",
+      "exercises": [
+        "Hantelpress sned 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-02-02",
+      "exercises": [
+        "Hantelpress sned 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 60 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-02-04",
+      "exercises": [
+        "Hantelpress sned 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-02-08",
+      "exercises": [
+        "Hantelpress sned 5x6 30 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Bicepscurl st\u00e5ng hantel 6+6x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-02-12",
+      "exercises": [
+        "Hantelpress 5x6 30 kg",
+        "Flyes 5x5 6 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15",
+        "Bicepscurl st\u00e5ng hantel 6+6 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-02-14",
+      "exercises": [
+        "Hantelpress sned 5x6 30 kg",
+        "Fly med hantel 5x5 7 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Marklyft 3x12",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Bicepscurl st\u00e5ng hantel 6+6x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-02-18",
+      "exercises": [
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Maskin: chest press 5x5 63",
+        "Maskin: pex fly 61",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Marklyft 3x12 100 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Bicepscurl st\u00e5ng hantel 6+6x3 32,5 kg"
+      ]
+    },
+    {
+      "date": "2025-02-24",
+      "exercises": [
+        "Hantelpress sned 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 32,5kg",
+        "Benb\u00f6j 5x5 60kg djupa",
+        "Skivst\u00e5ngsrodd med skivst\u00e5ng 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 0kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "exercises": [
+        "Hantelpress sned 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl"
+      ]
+    },
+    {
+      "date": "2025-03-14",
+      "exercises": [
+        "Hantelpress sned 3x10 30 kg",
+        "Flys med hantel 5x5 7 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12",
+        "Ryggresning 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-03-18",
+      "exercises": [
+        "Hantelpress sned 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg"
+      ]
+    },
+    {
+      "date": "2025-03-22",
+      "exercises": [
+        "Hantelpress sned 3x10 30 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-03-26",
+      "exercises": [
+        "Hantelpress sned 3x10 30 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-03-28",
+      "exercises": [
+        "Hantelpress sned 3x10 30 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg",
+        "Tricepsdrag 3x5 30"
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "exercises": [
+        "Hantelpress sned 3x10 30 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg",
+        "Tricepsdrag 3x5 30"
+      ]
+    },
+    {
+      "date": "2025-04-05",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg",
+        "Tricepsdrag 3x5 30"
+      ]
+    },
+    {
+      "date": "2025-04-25",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 3x5 35 kg !!!",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning 3x15",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg",
+        "Tricepsdrag 3x5 30"
+      ]
+    },
+    {
+      "date": "2025-05-01",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning 3x15",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg",
+        "Tricepsdrag 3x5 30"
+      ]
+    },
+    {
+      "date": "2025-05-05",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning 3x15",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg",
+        "Tricepsdrag 3x5 30"
+      ]
+    },
+    {
+      "date": "2025-05-11",
+      "exercises": [
+        "Hantelpress 2x10 1x8 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg"
+      ]
+    },
+    {
+      "date": "2025-05-17",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 5+5x3 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-05-23",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Bicepscurl st\u00e5ng hantel 5+5 x3 32,5 16 kg",
+        "Tricepsdrag 5x5 22,5",
+        "Kortare pga tidsbrist"
+      ]
+    },
+    {
+      "date": "2025-05-29",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-06-12",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 8 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 5x5 35 kg?",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "exercises": [
+        "Hantelpress 3x10 20 kg !!",
+        "Flys med hantel 5x5 8kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 16 kg"
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "exercises": [
+        "Hantelpress 3x10 28 kg",
+        "Flys med hantel 5x5 8kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 16 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta"
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "exercises": [
+        "Hantelpress 3x10 28 kg",
+        "Flys med hantel 3x10 8kg",
+        "Milit\u00e4rpress 5x5 30 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta"
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "exercises": [
+        "Hantelpress 3x10 28 kg",
+        "Flys med hantel 3x10 8 kg",
+        "Milit\u00e4rpress 5x5 30 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "exercises": [
+        "Hantelpress 3x10 28 kg",
+        "Flys med hantel 3x10 8 kg",
+        "Milit\u00e4rpress 5x5 30 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "exercises": [
+        "Hantelpress 3x10 28 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 30 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "exercises": [
+        "Hantelpress 3x10 28 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 30 kg",
+        "Benb\u00f6j 5x5 60 kg djupa",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "exercises": [
+        "Hantelpress 3x10 28 kg \u00f6ka?",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 30 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "exercises": [
+        "Hantelpress 3x10 28 kg , \u00f6ka!",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 30 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 30 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 32,5 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 35 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "exercises": [
+        "K\u00e4nning baksida l\u00e5r v\u00e4nster, ej benb\u00f6j - marklyft",
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 10 kg",
+        "Milit\u00e4rpress 5x4 40 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s",
+        "B\u00e4nkpress 2x3 80 kg"
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 60 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 9 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 60 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-11-29",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-12-09",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-12-13",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 100 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-12-17",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 100 kg \u00f6ka?",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-12-23",
+      "exercises": [
+        "Hantelpress 3x10 30 kg",
+        "Flys med hantel 3x10 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 100 kg \u00f6ka?",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 30 14 kg",
+        "Triceps 5x5 drag 50",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-12-27",
+      "exercises": [
+        "Hantelpress 3x11 30 kg",
+        "Flys med hantel 3x10 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 105 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 16 kg",
+        "Triceps 5x5 drag 60",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-12-29",
+      "exercises": [
+        "Hantelpress 3x12 30 kg",
+        "Flys med 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 105 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 16 kg",
+        "Triceps 5x5 drag 60",
+        "Balansplatta 60 s"
+      ]
+    },
+    {
+      "date": "2025-12-31",
+      "exercises": [
+        "Hantelpress 3x12 30 kg",
+        "Flys med 10 kg",
+        "Milit\u00e4rpress 5x5 40 kg",
+        "Benb\u00f6j 5x5 105 kg",
+        "Skivst\u00e5ngsrodd 5x5 60 kg",
+        "Marklyft 3x12 60 kg",
+        "Ryggresning p\u00e5 b\u00e4nk 3x15 10 kg",
+        "Mage p\u00e5 b\u00e4nk 3x15",
+        "Chins 3x7",
+        "Dips 3x15",
+        "Bicepscurl st\u00e5ng hantel 3x5+5 32,5 16 kg",
+        "Triceps 5x5 drag 60",
+        "Balansplatta 60 s"
+      ]
+    }
+  ],
+  "cardio_log": [
+    {
+      "date": "2025-01-06",
+      "type": "Running",
+      "distance_km": 5.110854107144756,
+      "duration_sec": 1957.0
+    },
+    {
+      "date": "2025-02-17",
+      "type": "Running",
+      "distance_km": 3.319304487642568,
+      "duration_sec": 1211.0
+    },
+    {
+      "date": "2025-11-02",
+      "type": "Running",
+      "distance_km": 5.619958563523297,
+      "duration_sec": 2023.0
+    },
+    {
+      "date": "2025-05-10",
+      "type": "Running",
+      "distance_km": 9.991304269964376,
+      "duration_sec": 3625.0
+    },
+    {
+      "date": "2025-01-24",
+      "type": "Running",
+      "distance_km": 5.161226193305484,
+      "duration_sec": 2226.0
+    },
+    {
+      "date": "2025-05-08",
+      "type": "Running",
+      "distance_km": 5.545805024587961,
+      "duration_sec": 2007.0
+    },
+    {
+      "date": "2025-05-30",
+      "type": "Running",
+      "distance_km": 10.087431251948955,
+      "duration_sec": 3670.0
+    },
+    {
+      "date": "2025-09-23",
+      "type": "Running",
+      "distance_km": 6.144190618346651,
+      "duration_sec": 2284.0
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Running",
+      "distance_km": 5.26542451164171,
+      "duration_sec": 1882.0
+    },
+    {
+      "date": "2025-11-28",
+      "type": "Running",
+      "distance_km": 3.364319357518599,
+      "duration_sec": 1279.0
+    },
+    {
+      "date": "2025-12-04",
+      "type": "Running",
+      "distance_km": 2.341638503252605,
+      "duration_sec": 912.0
+    },
+    {
+      "date": "2025-07-25",
+      "type": "Running",
+      "distance_km": 6.272453819990265,
+      "duration_sec": 2551.0
+    },
+    {
+      "date": "2025-09-05",
+      "type": "Running",
+      "distance_km": 7.790043383042185,
+      "duration_sec": 2859.0
+    },
+    {
+      "date": "2025-11-10",
+      "type": "Running",
+      "distance_km": 3.2756675835638394,
+      "duration_sec": 1154.0
+    },
+    {
+      "date": "2025-11-06",
+      "type": "Running",
+      "distance_km": 7.337105643300569,
+      "duration_sec": 2649.0
+    },
+    {
+      "date": "2025-10-15",
+      "type": "Running",
+      "distance_km": 9.568918839819089,
+      "duration_sec": 3646.0
+    },
+    {
+      "date": "2025-05-16",
+      "type": "Running",
+      "distance_km": 7.419273723197623,
+      "duration_sec": 2657.0
+    },
+    {
+      "date": "2025-02-13",
+      "type": "Running",
+      "distance_km": 4.649411676422491,
+      "duration_sec": 1984.0
+    },
+    {
+      "date": "2025-08-28",
+      "type": "Running",
+      "distance_km": 3.2740680141782907,
+      "duration_sec": 1298.0
+    },
+    {
+      "date": "2025-12-16",
+      "type": "Running",
+      "distance_km": 5.630033628878493,
+      "duration_sec": 2106.0
+    },
+    {
+      "date": "2025-08-16",
+      "type": "Running",
+      "distance_km": 9.589232712992338,
+      "duration_sec": 3563.0
+    },
+    {
+      "date": "2025-05-28",
+      "type": "Running",
+      "distance_km": 7.321775687600953,
+      "duration_sec": 2642.0
+    },
+    {
+      "date": "2025-01-20",
+      "type": "Running",
+      "distance_km": 3.4293138965969177,
+      "duration_sec": 1309.0
+    },
+    {
+      "date": "2025-05-18",
+      "type": "Running",
+      "distance_km": 11.085544678817175,
+      "duration_sec": 4316.0
+    },
+    {
+      "date": "2025-02-01",
+      "type": "Running",
+      "distance_km": 6.904578979464872,
+      "duration_sec": 2546.0
+    },
+    {
+      "date": "2025-12-24",
+      "type": "Running",
+      "distance_km": 5.589425583656226,
+      "duration_sec": 2126.0
+    },
+    {
+      "date": "2025-10-09",
+      "type": "Running",
+      "distance_km": 3.274592888594916,
+      "duration_sec": 1258.0
+    },
+    {
+      "date": "2025-09-21",
+      "type": "Running",
+      "distance_km": 6.0910077251332915,
+      "duration_sec": 2409.0
+    },
+    {
+      "date": "2025-07-15",
+      "type": "Running",
+      "distance_km": 5.519113867288832,
+      "duration_sec": 1760.0
+    },
+    {
+      "date": "2025-12-10",
+      "type": "Running",
+      "distance_km": 5.5966986629630595,
+      "duration_sec": 2231.0
+    },
+    {
+      "date": "2025-03-21",
+      "type": "Running",
+      "distance_km": 4.464597756440471,
+      "duration_sec": 1626.0
+    },
+    {
+      "date": "2025-01-12",
+      "type": "Running",
+      "distance_km": 5.032264666282224,
+      "duration_sec": 1865.0
+    },
+    {
+      "date": "2025-10-11",
+      "type": "Running",
+      "distance_km": 5.575449155063974,
+      "duration_sec": 2281.0
+    },
+    {
+      "date": "2025-04-14",
+      "type": "Running",
+      "distance_km": 1.995129040712797,
+      "duration_sec": 911.0
+    },
+    {
+      "date": "2025-03-25",
+      "type": "Running",
+      "distance_km": 5.647596941534682,
+      "duration_sec": 1955.0
+    },
+    {
+      "date": "2025-06-25",
+      "type": "Running",
+      "distance_km": 5.555396374360701,
+      "duration_sec": 2121.0
+    },
+    {
+      "date": "2025-08-18",
+      "type": "Running",
+      "distance_km": 5.524329566106097,
+      "duration_sec": 1719.0
+    },
+    {
+      "date": "2025-03-09",
+      "type": "Running",
+      "distance_km": 5.608518307260776,
+      "duration_sec": 2032.0
+    },
+    {
+      "date": "2025-11-16",
+      "type": "Running",
+      "distance_km": 6.063150147896672,
+      "duration_sec": 2169.0
+    },
+    {
+      "date": "2025-04-22",
+      "type": "Running",
+      "distance_km": 5.040520411360363,
+      "duration_sec": 2042.0
+    },
+    {
+      "date": "2025-02-09",
+      "type": "Running",
+      "distance_km": 7.052899972104068,
+      "duration_sec": 2680.0
+    },
+    {
+      "date": "2025-05-20",
+      "type": "Running",
+      "distance_km": 5.595515564821636,
+      "duration_sec": 2018.0
+    },
+    {
+      "date": "2025-09-07",
+      "type": "Running",
+      "distance_km": 5.912809325774892,
+      "duration_sec": 2160.0
+    },
+    {
+      "date": "2025-02-15",
+      "type": "Running",
+      "distance_km": 7.070278808266346,
+      "duration_sec": 3496.0
+    },
+    {
+      "date": "2025-10-27",
+      "type": "Running",
+      "distance_km": 2.1256980077365433,
+      "duration_sec": 831.0
+    },
+    {
+      "date": "2025-09-29",
+      "type": "Running",
+      "distance_km": 5.504732431977496,
+      "duration_sec": 1681.0
+    },
+    {
+      "date": "2025-04-06",
+      "type": "Running",
+      "distance_km": 6.747849095100032,
+      "duration_sec": 2480.0
+    },
+    {
+      "date": "2025-10-29",
+      "type": "Running",
+      "distance_km": 3.2816795667800163,
+      "duration_sec": 1252.0
+    },
+    {
+      "date": "2025-03-11",
+      "type": "Running",
+      "distance_km": 5.607332488427215,
+      "duration_sec": 2052.0
+    },
+    {
+      "date": "2025-04-08",
+      "type": "Running",
+      "distance_km": 2.02221856315427,
+      "duration_sec": 945.0
+    },
+    {
+      "date": "2025-03-19",
+      "type": "Running",
+      "distance_km": 5.58942649625012,
+      "duration_sec": 2039.0
+    },
+    {
+      "date": "2025-08-20",
+      "type": "Running",
+      "distance_km": 6.068153724039246,
+      "duration_sec": 2470.0
+    },
+    {
+      "date": "2025-10-25",
+      "type": "Running",
+      "distance_km": 3.329714546026202,
+      "duration_sec": 1334.0
+    },
+    {
+      "date": "2025-12-02",
+      "type": "Running",
+      "distance_km": 1.5913593370811756,
+      "duration_sec": 764.0
+    },
+    {
+      "date": "2025-01-08",
+      "type": "Running",
+      "distance_km": 5.026468793319426,
+      "duration_sec": 1998.0
+    },
+    {
+      "date": "2025-04-16",
+      "type": "Running",
+      "distance_km": 3.358402848052178,
+      "duration_sec": 1404.0
+    },
+    {
+      "date": "2025-09-25",
+      "type": "Running",
+      "distance_km": 3.26636874073093,
+      "duration_sec": 1184.0
+    },
+    {
+      "date": "2025-11-04",
+      "type": "Running",
+      "distance_km": 4.833938460481555,
+      "duration_sec": 1810.0
+    },
+    {
+      "date": "2025-08-12",
+      "type": "Running",
+      "distance_km": 5.561892122586486,
+      "duration_sec": 2196.0
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Running",
+      "distance_km": 5.493789262522267,
+      "duration_sec": 1757.0
+    },
+    {
+      "date": "2025-04-12",
+      "type": "Running",
+      "distance_km": 2.070160973087092,
+      "duration_sec": 894.0
+    },
+    {
+      "date": "2025-11-26",
+      "type": "Running",
+      "distance_km": 3.3040956240320636,
+      "duration_sec": 1252.0
+    },
+    {
+      "date": "2025-12-22",
+      "type": "Running",
+      "distance_km": 5.59072734448432,
+      "duration_sec": 2244.0
+    },
+    {
+      "date": "2025-01-22",
+      "type": "Running",
+      "distance_km": 5.049145355612784,
+      "duration_sec": 1907.0
+    },
+    {
+      "date": "2025-07-23",
+      "type": "Running",
+      "distance_km": 3.4145102835798165,
+      "duration_sec": 1461.0
+    },
+    {
+      "date": "2025-05-06",
+      "type": "Running",
+      "distance_km": 5.542579622009253,
+      "duration_sec": 2279.0
+    },
+    {
+      "date": "2025-03-31",
+      "type": "Running",
+      "distance_km": 5.601873688715356,
+      "duration_sec": 1892.0
+    },
+    {
+      "date": "2025-08-06",
+      "type": "Running",
+      "distance_km": 8.29056564925325,
+      "duration_sec": 3004.0
+    },
+    {
+      "date": "2025-11-20",
+      "type": "Running",
+      "distance_km": 3.314357489332416,
+      "duration_sec": 1293.0
+    },
+    {
+      "date": "2025-10-21",
+      "type": "Running",
+      "distance_km": 5.530898950360257,
+      "duration_sec": 2199.0
+    },
+    {
+      "date": "2025-01-28",
+      "type": "Running",
+      "distance_km": 4.806967192347107,
+      "duration_sec": 1882.0
+    },
+    {
+      "date": "2025-07-13",
+      "type": "Running",
+      "distance_km": 3.6159178592311374,
+      "duration_sec": 1136.0
+    },
+    {
+      "date": "2025-06-27",
+      "type": "Running",
+      "distance_km": 8.941244232394377,
+      "duration_sec": 3515.0
+    },
+    {
+      "date": "2025-08-26",
+      "type": "Running",
+      "distance_km": 5.508398218276512,
+      "duration_sec": 1689.0
+    },
+    {
+      "date": "2025-03-01",
+      "type": "Running",
+      "distance_km": 2.679537399875807,
+      "duration_sec": 1138.0
+    },
+    {
+      "date": "2025-03-03",
+      "type": "Running",
+      "distance_km": 2.5025250656045803,
+      "duration_sec": 1303.0
+    },
+    {
+      "date": "2025-10-13",
+      "type": "Running",
+      "distance_km": 2.747117956560387,
+      "duration_sec": 1091.0
+    },
+    {
+      "date": "2025-04-28",
+      "type": "Running",
+      "distance_km": 5.521329690261154,
+      "duration_sec": 2029.0
+    },
+    {
+      "date": "2025-05-04",
+      "type": "Running",
+      "distance_km": 6.898227136500819,
+      "duration_sec": 2554.0
+    },
+    {
+      "date": "2025-04-04",
+      "type": "Running",
+      "distance_km": 6.89997299857711,
+      "duration_sec": 2473.0
+    },
+    {
+      "date": "2025-07-17",
+      "type": "Running",
+      "distance_km": 14.838574860618294,
+      "duration_sec": 5231.0
+    },
+    {
+      "date": "2025-08-02",
+      "type": "Running",
+      "distance_km": 6.088020737595847,
+      "duration_sec": 2229.0
+    },
+    {
+      "date": "2025-02-25",
+      "type": "Running",
+      "distance_km": 5.8702574669550955,
+      "duration_sec": 7135.0
+    },
+    {
+      "date": "2025-02-11",
+      "type": "Running",
+      "distance_km": 5.6088695838281755,
+      "duration_sec": 1995.0
+    },
+    {
+      "date": "2025-02-27",
+      "type": "Running",
+      "distance_km": 3.4989647036425247,
+      "duration_sec": 1547.0
+    },
+    {
+      "date": "2025-11-14",
+      "type": "Running",
+      "distance_km": 5.594549180576103,
+      "duration_sec": 2028.0
+    },
+    {
+      "date": "2025-08-10",
+      "type": "Running",
+      "distance_km": 6.063968569103356,
+      "duration_sec": 2032.0
+    },
+    {
+      "date": "2025-06-05",
+      "type": "Running",
+      "distance_km": 5.53978590138701,
+      "duration_sec": 1935.0
+    },
+    {
+      "date": "2025-10-07",
+      "type": "Running",
+      "distance_km": 5.493077958523847,
+      "duration_sec": 1746.0
+    },
+    {
+      "date": "2025-12-14",
+      "type": "Running",
+      "distance_km": 5.677454118121879,
+      "duration_sec": 2316.0
+    },
+    {
+      "date": "2025-04-26",
+      "type": "Running",
+      "distance_km": 6.947675506202397,
+      "duration_sec": 2609.0
+    },
+    {
+      "date": "2025-03-27",
+      "type": "Running",
+      "distance_km": 5.7007612732252415,
+      "duration_sec": 2008.0
+    },
+    {
+      "date": "2025-11-30",
+      "type": "Running",
+      "distance_km": 2.0640579185095764,
+      "duration_sec": 964.0
+    },
+    {
+      "date": "2025-04-20",
+      "type": "Running",
+      "distance_km": 2.3008323968341693,
+      "duration_sec": 869.0
+    },
+    {
+      "date": "2025-02-23",
+      "type": "Running",
+      "distance_km": 3.640415791895027,
+      "duration_sec": 1332.0
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Running",
+      "distance_km": 12.02736807448673,
+      "duration_sec": 4300.0
+    },
+    {
+      "date": "2025-08-24",
+      "type": "Running",
+      "distance_km": 15.195916185280085,
+      "duration_sec": 6032.0
+    },
+    {
+      "date": "2025-07-29",
+      "type": "Running",
+      "distance_km": 6.179711753210032,
+      "duration_sec": 2485.0
+    },
+    {
+      "date": "2025-04-24",
+      "type": "Running",
+      "distance_km": 3.301679578620812,
+      "duration_sec": 1196.0
+    },
+    {
+      "date": "2025-09-13",
+      "type": "Running",
+      "distance_km": 10.015790784197456,
+      "duration_sec": 3519.0
+    },
+    {
+      "date": "2025-09-03",
+      "type": "Running",
+      "distance_km": 3.2512999594499203,
+      "duration_sec": 1290.0
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Running",
+      "distance_km": 5.62659529625198,
+      "duration_sec": 2147.0
+    },
+    {
+      "date": "2025-07-05",
+      "type": "Running",
+      "distance_km": 13.146514292166337,
+      "duration_sec": 4777.0
+    },
+    {
+      "date": "2025-07-27",
+      "type": "Running",
+      "distance_km": 6.022930157969972,
+      "duration_sec": 2217.0
+    },
+    {
+      "date": "2025-09-15",
+      "type": "Running",
+      "distance_km": 2.8214794151102045,
+      "duration_sec": 1192.0
+    },
+    {
+      "date": "2025-11-24",
+      "type": "Running",
+      "distance_km": 2.8854029937059966,
+      "duration_sec": 1159.0
+    },
+    {
+      "date": "2025-08-30",
+      "type": "Running",
+      "distance_km": 5.627067876785074,
+      "duration_sec": 2050.0
+    },
+    {
+      "date": "2025-09-19",
+      "type": "Running",
+      "distance_km": 6.06608638047502,
+      "duration_sec": 2142.0
+    },
+    {
+      "date": "2025-03-13",
+      "type": "Running",
+      "distance_km": 5.702332572320723,
+      "duration_sec": 2108.0
+    },
+    {
+      "date": "2025-04-18",
+      "type": "Running",
+      "distance_km": 2.013356951810077,
+      "duration_sec": 976.0
+    },
+    {
+      "date": "2025-10-23",
+      "type": "Running",
+      "distance_km": 5.614918490387386,
+      "duration_sec": 2226.0
+    },
+    {
+      "date": "2025-03-29",
+      "type": "Running",
+      "distance_km": 6.989928576284484,
+      "duration_sec": 2616.0
+    },
+    {
+      "date": "2025-01-04",
+      "type": "Running",
+      "distance_km": 5.037663613828601,
+      "duration_sec": 1801.0
+    },
+    {
+      "date": "2025-09-27",
+      "type": "Running",
+      "distance_km": 15.043473508701139,
+      "duration_sec": 5824.0
+    },
+    {
+      "date": "2025-10-19",
+      "type": "Running",
+      "distance_km": 5.2992255517413485,
+      "duration_sec": 2129.0
+    },
+    {
+      "date": "2025-12-12",
+      "type": "Running",
+      "distance_km": 5.570339741329516,
+      "duration_sec": 2030.0
+    },
+    {
+      "date": "2025-01-10",
+      "type": "Running",
+      "distance_km": 5.028161708913089,
+      "duration_sec": 1874.0
+    },
+    {
+      "date": "2025-11-08",
+      "type": "Running",
+      "distance_km": 5.5565850106102905,
+      "duration_sec": 2102.0
+    },
+    {
+      "date": "2025-02-05",
+      "type": "Running",
+      "distance_km": 3.378662691941023,
+      "duration_sec": 1333.0
+    },
+    {
+      "date": "2025-06-13",
+      "type": "Running",
+      "distance_km": 13.427244290793693,
+      "duration_sec": 4964.0
+    },
+    {
+      "date": "2025-01-02",
+      "type": "Running",
+      "distance_km": 3.4616988980587795,
+      "duration_sec": 1352.0
+    },
+    {
+      "date": "2025-03-05",
+      "type": "Running",
+      "distance_km": 2.8090871825499093,
+      "duration_sec": 1273.0
+    },
+    {
+      "date": "2025-10-03",
+      "type": "Running",
+      "distance_km": 5.174809041317938,
+      "duration_sec": 2057.0
+    },
+    {
+      "date": "2025-03-07",
+      "type": "Running",
+      "distance_km": 2.6901168452464477,
+      "duration_sec": 1158.0
+    },
+    {
+      "date": "2025-03-17",
+      "type": "Running",
+      "distance_km": 5.668951644657069,
+      "duration_sec": 1942.0
+    },
+    {
+      "date": "2025-01-26",
+      "type": "Running",
+      "distance_km": 7.834683800659252,
+      "duration_sec": 2956.0
+    },
+    {
+      "date": "2025-06-03",
+      "type": "Running",
+      "distance_km": 4.050010770909718,
+      "duration_sec": 1707.0
+    },
+    {
+      "date": "2025-10-01",
+      "type": "Running",
+      "distance_km": 6.027681166738451,
+      "duration_sec": 2204.0
+    },
+    {
+      "date": "2025-10-17",
+      "type": "Running",
+      "distance_km": 1.6265873784778258,
+      "duration_sec": 624.0
+    },
+    {
+      "date": "2025-03-23",
+      "type": "Running",
+      "distance_km": 6.960849463143576,
+      "duration_sec": 2659.0
+    },
+    {
+      "date": "2025-06-11",
+      "type": "Running",
+      "distance_km": 5.533312520393654,
+      "duration_sec": 1948.0
+    },
+    {
+      "date": "2025-02-19",
+      "type": "Running",
+      "distance_km": 3.304376661856884,
+      "duration_sec": 1267.0
+    },
+    {
+      "date": "2025-01-14",
+      "type": "Running",
+      "distance_km": 5.025201303247848,
+      "duration_sec": 1845.0
+    },
+    {
+      "date": "2025-07-07",
+      "type": "Running",
+      "distance_km": 5.5071788003701885,
+      "duration_sec": 1734.0
+    },
+    {
+      "date": "2025-05-12",
+      "type": "Running",
+      "distance_km": 5.927888217920024,
+      "duration_sec": 2130.0
+    },
+    {
+      "date": "2025-11-22",
+      "type": "Running",
+      "distance_km": 6.078891492941553,
+      "duration_sec": 2193.0
+    },
+    {
+      "date": "2025-07-09",
+      "type": "Running",
+      "distance_km": 5.162523803992667,
+      "duration_sec": 1886.0
+    },
+    {
+      "date": "2025-07-31",
+      "type": "Running",
+      "distance_km": 6.105256252887637,
+      "duration_sec": 2350.0
+    },
+    {
+      "date": "2025-06-23",
+      "type": "Running",
+      "distance_km": 5.541705021191148,
+      "duration_sec": 1979.0
+    },
+    {
+      "date": "2025-04-02",
+      "type": "Running",
+      "distance_km": 3.309822525666219,
+      "duration_sec": 1241.0
+    },
+    {
+      "date": "2025-05-26",
+      "type": "Running",
+      "distance_km": 5.517014608921538,
+      "duration_sec": 2144.0
+    },
+    {
+      "date": "2025-09-11",
+      "type": "Running",
+      "distance_km": 5.992843815977064,
+      "duration_sec": 2208.0
+    },
+    {
+      "date": "2025-02-07",
+      "type": "Running",
+      "distance_km": 5.599883400673781,
+      "duration_sec": 2051.0
+    },
+    {
+      "date": "2025-12-06",
+      "type": "Running",
+      "distance_km": 3.3236588096481894,
+      "duration_sec": 1257.0
+    },
+    {
+      "date": "2025-10-31",
+      "type": "Running",
+      "distance_km": 3.35084109997518,
+      "duration_sec": 1257.0
+    },
+    {
+      "date": "2025-12-26",
+      "type": "Running",
+      "distance_km": 5.632105873665787,
+      "duration_sec": 2240.0
+    },
+    {
+      "date": "2025-06-01",
+      "type": "Running",
+      "distance_km": 11.355971975254668,
+      "duration_sec": 4170.0
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Running",
+      "distance_km": 5.184631314175058,
+      "duration_sec": 2041.0
+    },
+    {
+      "date": "2025-12-18",
+      "type": "Running",
+      "distance_km": 5.546230845267291,
+      "duration_sec": 2206.0
+    },
+    {
+      "date": "2025-09-09",
+      "type": "Running",
+      "distance_km": 5.502909681313128,
+      "duration_sec": 1675.0
+    },
+    {
+      "date": "2025-11-12",
+      "type": "Running",
+      "distance_km": 3.324951406082991,
+      "duration_sec": 1274.0
+    },
+    {
+      "date": "2025-02-21",
+      "type": "Running",
+      "distance_km": 3.2944748736866156,
+      "duration_sec": 1219.0
+    },
+    {
+      "date": "2025-01-18",
+      "type": "Running",
+      "distance_km": 6.8906025841107486,
+      "duration_sec": 2478.0
+    },
+    {
+      "date": "2025-05-02",
+      "type": "Running",
+      "distance_km": 3.301531409307605,
+      "duration_sec": 2155.0
+    },
+    {
+      "date": "2025-09-17",
+      "type": "Running",
+      "distance_km": 3.2729013788563504,
+      "duration_sec": 1201.0
+    },
+    {
+      "date": "2025-04-30",
+      "type": "Running",
+      "distance_km": 3.2419978798860063,
+      "duration_sec": 1171.0
+    },
+    {
+      "date": "2025-04-10",
+      "type": "Running",
+      "distance_km": 2.0523104688662284,
+      "duration_sec": 867.0
+    },
+    {
+      "date": "2025-08-04",
+      "type": "Running",
+      "distance_km": 6.1076239323809345,
+      "duration_sec": 2150.0
+    },
+    {
+      "date": "2025-06-07",
+      "type": "Running",
+      "distance_km": 5.52310811139786,
+      "duration_sec": 1977.0
+    },
+    {
+      "date": "2025-12-20",
+      "type": "Running",
+      "distance_km": 7.369283719292006,
+      "duration_sec": 2867.0
+    },
+    {
+      "date": "2025-03-15",
+      "type": "Running",
+      "distance_km": 6.207106328064775,
+      "duration_sec": 2063.0
+    },
+    {
+      "date": "2025-12-28",
+      "type": "Running",
+      "distance_km": 9.759054775822674,
+      "duration_sec": 3817.0
+    },
+    {
+      "date": "2025-07-19",
+      "type": "Running",
+      "distance_km": 5.247491114859568,
+      "duration_sec": 2141.0
+    },
+    {
+      "date": "2025-08-22",
+      "type": "Running",
+      "distance_km": 5.535707628152101,
+      "duration_sec": 1985.0
+    },
+    {
+      "date": "2025-12-08",
+      "type": "Running",
+      "distance_km": 3.3058825191554346,
+      "duration_sec": 1215.0
+    },
+    {
+      "date": "2025-08-14",
+      "type": "Running",
+      "distance_km": 6.031128102491548,
+      "duration_sec": 2201.0
+    },
+    {
+      "date": "2025-11-18",
+      "type": "Running",
+      "distance_km": 3.33089469430547,
+      "duration_sec": 1327.0
+    },
+    {
+      "date": "2025-12-30",
+      "type": "Running",
+      "distance_km": 5.564332902257073,
+      "duration_sec": 2212.0
+    },
+    {
+      "date": "2025-01-16",
+      "type": "Running",
+      "distance_km": 5.016422739201595,
+      "duration_sec": 1938.0
+    },
+    {
+      "date": "2025-06-19",
+      "type": "Cycling",
+      "distance_km": 5.3296066648706715,
+      "duration_sec": 2336.0
+    },
+    {
+      "date": "2025-07-16",
+      "type": "Cycling",
+      "distance_km": 27.366003970474296,
+      "duration_sec": 3670.0,
+      "speed_kmh": 29.9
+    },
+    {
+      "date": "2025-08-13",
+      "type": "Cycling",
+      "distance_km": 10.89662334566196,
+      "duration_sec": 4300.0,
+      "speed_kmh": 27.8
+    },
+    {
+      "date": "2025-08-08",
+      "type": "Cycling",
+      "distance_km": 6.038062687770232,
+      "duration_sec": 2000.0
+    },
+    {
+      "date": "2025-06-17",
+      "type": "Cycling",
+      "distance_km": 5.586166402530692,
+      "duration_sec": 2026.0
+    },
+    {
+      "date": "2025-09-10",
+      "type": "Cycling",
+      "distance_km": 11.800813313851595,
+      "duration_sec": 1642.0,
+      "speed_kmh": 27.1
+    },
+    {
+      "date": "2025-08-17",
+      "type": "Cycling",
+      "distance_km": 35.3588727738505,
+      "duration_sec": 4860.0,
+      "speed_kmh": 29.7
+    },
+    {
+      "date": "2025-08-30",
+      "type": "Cycling",
+      "distance_km": 5.581298489287546,
+      "duration_sec": 5181.0
+    },
+    {
+      "date": "2025-06-15",
+      "type": "Cycling",
+      "distance_km": 9.154593337241126,
+      "duration_sec": 3544.0
+    },
+    {
+      "date": "2025-09-14",
+      "type": "Cycling",
+      "distance_km": 35.58276731752186,
+      "duration_sec": 5545.0,
+      "speed_kmh": 27.9
+    },
+    {
+      "date": "2025-06-28",
+      "type": "Cycling",
+      "distance_km": 35.48310110342328,
+      "duration_sec": 5334.0,
+      "speed_kmh": 26.7
+    },
+    {
+      "date": "2025-05-13",
+      "type": "Cycling",
+      "distance_km": 11.185111544334315,
+      "duration_sec": 1754.0,
+      "speed_kmh": 30.6
+    },
+    {
+      "date": "2025-05-14",
+      "type": "Cycling",
+      "distance_km": 5.580811111416328,
+      "duration_sec": 2033.0
+    },
+    {
+      "date": "2025-09-07",
+      "type": "Cycling",
+      "distance_km": 20.725174943349217,
+      "duration_sec": 3237.0,
+      "speed_kmh": 26.7
+    },
+    {
+      "date": "2025-08-21",
+      "type": "Cycling",
+      "distance_km": 11.245327131696314,
+      "duration_sec": 1788.0,
+      "speed_kmh": 28.8
+    },
+    {
+      "date": "2025-05-24",
+      "type": "Cycling",
+      "distance_km": 12.456882408400133,
+      "duration_sec": 4701.0
+    },
+    {
+      "date": "2025-08-19",
+      "type": "Cycling",
+      "distance_km": 11.323781796548044,
+      "duration_sec": 1567.0,
+      "speed_kmh": 27.4
+    },
+    {
+      "date": "2025-08-23",
+      "type": "Cycling",
+      "distance_km": 35.30850811743483,
+      "duration_sec": 4922.0,
+      "speed_kmh": 30.1
+    },
+    {
+      "date": "2025-09-28",
+      "type": "Cycling",
+      "distance_km": 19.390265802573058,
+      "duration_sec": 6147.0,
+      "speed_kmh": 28.3
+    },
+    {
+      "date": "2025-08-07",
+      "type": "Cycling",
+      "distance_km": 35.41848749081558,
+      "duration_sec": 4717.0,
+      "speed_kmh": 29.4
+    },
+    {
+      "date": "2025-08-30",
+      "type": "Cycling",
+      "distance_km": 9.536956342962188,
+      "duration_sec": 5382.0
+    },
+    {
+      "date": "2025-05-21",
+      "type": "Cycling",
+      "distance_km": 11.212140268222898,
+      "duration_sec": 1697.0,
+      "speed_kmh": 26.4
+    },
+    {
+      "date": "2025-07-12",
+      "type": "Cycling",
+      "distance_km": 35.262808350907825,
+      "duration_sec": 4538.0,
+      "speed_kmh": 30.2
+    },
+    {
+      "date": "2025-07-04",
+      "type": "Cycling",
+      "distance_km": 35.11048384695828,
+      "duration_sec": 4930.0,
+      "speed_kmh": 29.3
+    },
+    {
+      "date": "2025-09-10",
+      "type": "Cycling",
+      "distance_km": 11.298835158811965,
+      "duration_sec": 2393.0,
+      "speed_kmh": 27.1
+    },
+    {
+      "date": "2025-07-11",
+      "type": "Cycling",
+      "distance_km": 4.59712579379711,
+      "duration_sec": 1987.0
+    },
+    {
+      "date": "2025-05-22",
+      "type": "Cycling",
+      "distance_km": 5.571686060726362,
+      "duration_sec": 2158.0
+    },
+    {
+      "date": "2025-08-21",
+      "type": "Cycling",
+      "distance_km": 11.252851628730044,
+      "duration_sec": 1700.0,
+      "speed_kmh": 28.8
+    },
+    {
+      "date": "2025-06-06",
+      "type": "Cycling",
+      "distance_km": 18.875172253609925,
+      "duration_sec": 2788.0,
+      "speed_kmh": 28.4
+    },
+    {
+      "date": "2025-07-20",
+      "type": "Cycling",
+      "distance_km": 27.864780436548124,
+      "duration_sec": 3712.0,
+      "speed_kmh": 29.6
+    },
+    {
+      "date": "2025-09-06",
+      "type": "Cycling",
+      "distance_km": 24.278361750516495,
+      "duration_sec": 7934.0,
+      "speed_kmh": 28.8
+    },
+    {
+      "date": "2025-08-13",
+      "type": "Cycling",
+      "distance_km": 11.470619122560194,
+      "duration_sec": 1658.0,
+      "speed_kmh": 27.8
+    },
+    {
+      "date": "2025-08-11",
+      "type": "Cycling",
+      "distance_km": 18.73715652768847,
+      "duration_sec": 2343.0,
+      "speed_kmh": 31.1
+    },
+    {
+      "date": "2025-05-21",
+      "type": "Cycling",
+      "distance_km": 11.535126724098356,
+      "duration_sec": 1702.0,
+      "speed_kmh": 26.4
+    },
+    {
+      "date": "2025-05-13",
+      "type": "Cycling",
+      "distance_km": 11.208194039495245,
+      "duration_sec": 1671.0,
+      "speed_kmh": 30.6
+    },
+    {
+      "date": "2025-05-25",
+      "type": "Cycling",
+      "distance_km": 35.400645739329335,
+      "duration_sec": 5292.0,
+      "speed_kmh": 27.0
+    },
+    {
+      "date": "2025-07-08",
+      "type": "Cycling",
+      "distance_km": 35.42174363730652,
+      "duration_sec": 6124.0,
+      "speed_kmh": 28.8
+    },
+    {
+      "date": "2025-05-31",
+      "type": "Cycling",
+      "distance_km": 35.455460788316415,
+      "duration_sec": 5778.0,
+      "speed_kmh": 27.8
+    },
+    {
+      "date": "2025-07-10",
+      "type": "Cycling",
+      "distance_km": 11.932563891500397,
+      "duration_sec": 4367.0
+    },
+    {
+      "date": "2025-08-19",
+      "type": "Cycling",
+      "distance_km": 11.15355140773953,
+      "duration_sec": 1665.0,
+      "speed_kmh": 27.4
+    },
+    {
+      "date": "2025-06-14",
+      "type": "Cycling",
+      "distance_km": 35.57959697500368,
+      "duration_sec": 4937.0,
+      "speed_kmh": 29.0
+    },
+    {
+      "date": "2025-07-21",
+      "type": "Cycling",
+      "distance_km": 5.557271693536237,
+      "duration_sec": 2220.0
+    },
+    {
+      "date": "2025-05-11",
+      "type": "Cycling",
+      "distance_km": 19.08621159050159,
+      "duration_sec": 2806.0,
+      "speed_kmh": 29.2
+    },
+    {
+      "date": "2025-09-11",
+      "distance_km": 28.9,
+      "duration_str": "0:23:47",
+      "speed_kmh": 28.9,
+      "type": "Cycling"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Walking",
+      "distance_km": 7.6427446542430975,
+      "duration_sec": 7709.0
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Walking",
+      "distance_km": 3.2739500737820375,
+      "duration_sec": 1254.0
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Walking",
+      "distance_km": 5.685946460429705,
+      "duration_sec": 7957.0
+    }
+  ]
+}
