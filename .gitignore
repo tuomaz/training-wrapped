@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+dist/
+.gemini/
+.env
+
+# Private Data
+RunnerUp/
+gym
+*.ods
+*.gpx
+*.tcx
+
+# Generated Data (root level)
+wrapped_data.json
+
+# Logs
+*.log
+vite.log
